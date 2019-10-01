@@ -1,1 +1,1 @@
-web: python app.py 8050
+web: python app.py $PORT
